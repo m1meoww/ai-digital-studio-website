@@ -1,37 +1,30 @@
 
-🤖 AI Digital Studio – Animated Landing Page
+# 🤖 AI Digital Studio – Animated Landing Page
 
 A modern AI-focused digital studio landing page built with smooth scrolling and advanced animations using GSAP and Locomotive Scroll.
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
-HTML5
+- HTML5
+- CSS3
+-JavaScript (ES6)
+-GSAP
+-ScrollTrigger
+-Locomotive Scroll
+---
 
-CSS3
+## ✨ Features
 
-JavaScript (ES6)
+1) Smooth scrolling integration
+2) Scroll-triggered animations
+3) Animated navigation dropdown
+4) Interactive hover effects
+5) Video reveal animation
+6) Staggered loading animation
 
-GSAP
+ ---
+## 📂 Structure
 
-ScrollTrigger
-
-Locomotive Scroll
-
-✨ Features
-
-Smooth scrolling integration
-
-Scroll-triggered animations
-
-Animated navigation dropdown
-
-Interactive hover effects
-
-Video reveal animation
-
-Staggered loading animation
-
-📂 Structure
 project-folder/
 │
 ├── index.html
